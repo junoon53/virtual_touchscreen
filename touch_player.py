@@ -1,12 +1,3 @@
-"""
-   player .py
-
-   :description: Plays back MQTT message record 
-
-   :author: Vikram Pawar
-   :copyright: Whirlpool Corporation
-
-"""
 import sys
 import imp
 import os.path
